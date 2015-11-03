@@ -22,7 +22,7 @@ namespace EmailClient
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); Console.WriteLine(); Console.WriteLine();
         }
     }
 }
